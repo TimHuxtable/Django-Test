@@ -1,0 +1,8 @@
+In order to start the virtualenv navigate to django_prac in terminal and run "source bin/activate"
+
+"python manage.py runserver" this will start the server so we can view page in browser.
+
+python manage.py startapp app_name creates app. Remember to add to settings.py
+
+python manage.py makemigrations -> python manage.py migrate | for updating models/mysql
+
